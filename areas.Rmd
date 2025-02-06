@@ -18,7 +18,24 @@ r <- 0.5
 Area <-pi*r^2
 
 ```
+#Area cuadrado
 
+```{r}
+lado <- 3
+AreaCuadrado <-lado*2
 
+```
+#Area Triangulo
+```{r}
+b <-1
+a <-2
+AreaTriangulo <- (b*a)/2
 
+```
 
+#Area Rectangulo
+```{r}
+b <- 1
+a <-2
+AreaRectangulo <- b*a
+```
